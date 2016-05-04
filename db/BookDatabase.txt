@@ -1,0 +1,15 @@
+author0,title0,description0,location0,available,0,,12340
+author2,title2,description2,location2,available,2,,12342
+author3,title3,description3,location3,checked out,3,2,12343
+author4,title4,description4,location4,available,4,,12344
+author5,title5,description5,location5,checked out,5,3,12345
+author6,title6,description6,location6,lost,6,,12346
+author7,title7,description7,location7,lost,7,,12347
+author8,title8,description8,location8,lost,8,,12348
+author9,title9,description9,location9,checked out,9,3,12349
+author10,title10,description10,location10,checked out,10,2,9223372036854775807
+author10,title10,description10,location10,checked out,11,1,9223372036854775807
+def,abc,ghi,jkl,available,12,,9223372036854775807
+def,abc,ghi,jkl,available,13,,9223372036854775807
+def,abc,ghi,jkl,available,14,,9223372036854775807
+def,abc,ghi,jkl,available,15,,9223372036854775807
